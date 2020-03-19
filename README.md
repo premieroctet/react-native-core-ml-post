@@ -6,4 +6,4 @@
 
 > React Native project for CoreML + React Native blog post 
 
-https://www.premieroctet.com/classification-images-avec-react-native-et-coreml-sur-ios
+https://www.premieroctet.com/blog/classification-images-avec-react-native-et-coreml-sur-ios/
